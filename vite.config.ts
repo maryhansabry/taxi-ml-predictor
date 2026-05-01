@@ -12,5 +12,5 @@ import react from "@vitejs/plugin-react";
 export default defineConfig({
   plugins: [react()],
 
-  base: "/taxi-ml-predictor", // 👈 مهم جدًا
+  base: "/taxi-ml-predictor/", // 👈 مهم جدًا
 });
