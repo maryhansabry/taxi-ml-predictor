@@ -37,7 +37,7 @@ wise-ride-predict/
 
 🚀 Getting Started
 1️⃣ Clone the repo
-git clone https://github.com/your-username/taxi-ml-predictor.git
+git clone https://github.com/maryhansabry/taxi-ml-predictor.git
 cd taxi-ml-predictor
 2️⃣ Backend setup (FastAPI)
 cd backend
